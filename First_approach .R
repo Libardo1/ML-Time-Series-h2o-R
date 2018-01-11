@@ -17,7 +17,7 @@ library(rlang)
 library(tibble) 
 library(gridExtra)
 
-#KAYRROS Challenge 
+#set file directory
 setwd("/Users/miguelangelalbaacosta/Desktop/KAYRROS")
 
 #Preprocessing and exploring the datasets
